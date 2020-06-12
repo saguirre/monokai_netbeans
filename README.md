@@ -2,10 +2,11 @@
 
 This is a color theme for Netbeans IDE with Monokai coloring.
 
-## Installation
-
+## Download
 You can find the color theme .zip file inside the download folder in the repository or [here](https://github.com/saguirrews/monokai_netbeans/tree/master/download). Alternatively, you can fork the repo and zip it yourself.
 The file being on a .zip format is important in order for Netbeans to allow the import of the color theme.
+
+## Installation
 
 ```bash
 Tools -> Options -> Fonts & Colors -> Import
