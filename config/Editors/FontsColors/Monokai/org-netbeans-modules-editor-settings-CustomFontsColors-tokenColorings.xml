@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fontscolors PUBLIC "-//NetBeans//DTD Editor Fonts and Colors settings 1.1//EN" "http://www.netbeans.org/dtds/EditorFontsColors-1_1.dtd">
+<fontscolors>
+    <fontcolor bgColor="ff3c3d37" name="mark-occurrences"/>
+    <fontcolor foreColor="ffffd866" name="markup-attribute"/>
+    <fontcolor name="private"/>
+    <fontcolor foreColor="ffffd866" name="string"/>
+    <fontcolor name="deprecated" strikeThrough="darkGray"/>
+    <fontcolor name="error" waveUnderlined="fff22667"/>
+    <fontcolor name="interface"/>
+    <fontcolor foreColor="pink" name="entity-reference"/>
+    <fontcolor name="operator"/>
+    <fontcolor foreColor="ffab9df4" name="number"/>
+    <fontcolor bgColor="ff272822" foreColor="fff8f8f0" name="default">
+        <font name="Consolas" size="16" style="plain"/>
+    </fontcolor>
+    <fontcolor name="protected"/>
+    <fontcolor foreColor="ffff6089" name="public"/>
+    <fontcolor foreColor="fffc9769" name="method-parameter">
+        <font style="italic"/>
+    </fontcolor>
+    <fontcolor bgColor="ff2a2815" name="warning"/>
+    <fontcolor foreColor="ffff6089" name="keyword">
+        <font style="italic"/>
+    </fontcolor>
+    <fontcolor name="class"/>
+    <fontcolor name="local-variable"/>
+    <fontcolor foreColor="ffa9dc77" name="identifier"/>
+    <fontcolor foreColor="ffab9df4" name="static"/>
+    <fontcolor foreColor="ffa9dc77" name="method"/>
+    <fontcolor name="constructor"/>
+    <fontcolor foreColor="fffc9769" name="markup-element"/>
+    <fontcolor default="string" foreColor="red" name="markup-attribute-value"/>
+    <fontcolor name="abstract"/>
+    <fontcolor name="separator"/>
+    <fontcolor foreColor="ffab9df4" name="enum"/>
+    <fontcolor name="url" underline="ff4e5d93"/>
+    <fontcolor name="field"/>
+    <fontcolor foreColor="ffffd866" name="char"/>
+    <fontcolor foreColor="ff75715e" name="comment">
+        <font style="italic"/>
+    </fontcolor>
+    <fontcolor bgColor="gray" foreColor="gray" name="unused" waveUnderlined="gray"/>
+    <fontcolor name="whitespace"/>
+</fontscolors>
